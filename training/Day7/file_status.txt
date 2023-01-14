@@ -1,0 +1,24 @@
+-r: check if the file is readable
+-w: check if the file is writable
+-x: check if the file is executable
+-o: check if the file is owned by effective uid.
+-R: check if file is readable
+-W: check if file is writable
+-X: check if file is executable
+-O: check if the file is owned by real uid.
+-e: check if the file exists.
+-z: check if the file is empty.
+-s: check if the file has nonzero size (returns size in bytes).
+-f: check if the file is a plain file.
+-d: check if the file is a directory.
+-l: check if the file is a symbolic link.
+-p: check if the file is a named pipe (FIFO): or Filehandle is a pipe.
+-S: check if the file is a socket.
+-b: check if the file is a block special file.
+-c: check if the file is a character special file.
+-t: check if the file handle is opened to a tty.
+-u: check if the file has setuid bit set.
+-g: check if the file has setgid bit set.
+-k: check if the file has sticky bit set.
+-T: check if the file is an ASCII text file (heuristic guess).
+-B: check if the file is a “binary” file (opposite of -T).

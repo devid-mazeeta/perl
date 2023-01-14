@@ -1,0 +1,14 @@
+Practical Extraction and Report Language
+Larry Wall
+1987
+5.34.0
+Text processing
+
+C, Shell and Basic
+CGI - Catalyst/Mojolics
+Other languages - Unicode
+Scripting/Programming/Procedural/OO language
+Comprehensive Perl Archive Network (CPAN)
+
+-e / -d / -w
+perl -c test.pl
